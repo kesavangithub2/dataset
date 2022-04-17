@@ -9,7 +9,7 @@
 7,Key Technologies for Business,business essential,business
 8,IBM AI Foundations for Business,machine learning,data science
 9,IBM Data Analyst,data analysis,data science
-10,Applied Data Science,Applied Data Science,
+10,Applied Data Science,machine learning,data science
 11,Cloud Architecture with Google Cloud,cloud computing,information technology
 12,The Science of Well-Being,personal development,personal development
 13,Technical Support Fundamentals,support and operation,information technology
@@ -28,38 +28,38 @@
 26,Architecting with Google Kubernetes Engine,cloud computing,information technology
 27,Finance & Quantitative Modeling for Analysts,finance,business
 28,Developing Applications with Google Cloud Platform,computer science,software development
-29,Security in Google Cloud Platform,,
-30,Graphic Design,,
-31,Networking in Google Cloud,,
-32,Digital Product Management,,
-33,Data Engineering with Google Cloud,,
-34,Become a CBRS Certified Professional Installer by Google,,
+29,Security in Google Cloud Platform,cloud computing,information technology
+30,Graphic Design,arts and humanities,music and art
+31,Networking in Google Cloud,networking,information technology
+32,Digital Product Management,design and product,computer science
+33,Data Engineering with Google Cloud,cloud computing,information technology
+34,Become a CBRS Certified Professional Installer by Google,networking,information technology
 35,Project Management Principles and Practices,leadership-and-management,business
 36,Project Management & Other Tools for Career Development,leadership-and-management,business
 37,Financial Markets,finance,business
 38,Business and Financial Modeling,finance,business
-39,Applied Data Science with Python,,
-40,UI / UX Design,,
+39,Applied Data Science with Python,data analysis,data science
+40,UI / UX Design,design and product,computer science
 41,"Data Engineering, Big Data, and Machine Learning on GCP",machine learning,data science
-42,UCI Project Management,,
-43,Foundations of Positive Psychology,,
-44,Introduction to Finance and Accounting,,
-45,Improve Your English Communication Skills,,
-46,IBM AI Engineering,,
-47,Excel to MySQL: Analytic Techniques for Business,,
-48,Python 3 Programming,,
-49,Introduction to Psychology,,
-50,Java Programming and Software Engineering Fundamentals,,
-51,Programming for Everybody (Getting Started with Python),,
-52,Search Engine Optimization (SEO),,
-53,Arizona State University TESOL,,
-54,Web Design for Everybody: Basics of Web Development & Coding,,
-55,Learn SQL Basics for Data Science,,
-56,The Bits and Bytes of Computer Networking,,
-57,Agile Development,,
-58,Entrepreneurship,,
-59,AI For Everyone,,
-60,Crash Course on Python,,
+42,UCI Project Management,business essential,business
+43,Foundations of Positive Psychology,business essential,business
+44,Introduction to Finance and Accounting,finance,business
+45,Improve Your English Communication Skills,learning english,language learning
+46,IBM AI Engineering,machine learning,data science
+47,Excel to MySQL: Analytic Techniques for Business,business essential,business
+48,Python 3 Programming,software development,computer science
+49,Introduction to Psychology,psychology,health
+50,Java Programming and Software Engineering Fundamentals,software development,computer science
+51,Programming for Everybody (Getting Started with Python),software development,computer science
+52,Search Engine Optimization (SEO),marketing,business
+53,Arizona State University TESOL,learning english,language learning
+54,Web Design for Everybody: Basics of Web Development & Coding,mobile and web development,computer science
+55,Learn SQL Basics for Data Science,data analysis,data science
+56,The Bits and Bytes of Computer Networking,networking,information technology
+57,Agile Development,design and product,computer science
+58,Entrepreneurship,entrepreneurship,business
+59,AI For Everyone,business strategy,business
+60,Crash Course on Python,support and operation,information technology
 61,"TESOL Certificate, Part 1: Teach English Now!",,
 62,Software Product Management,,
 63,AWS Fundamentals,,
