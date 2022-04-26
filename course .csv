@@ -90,153 +90,153 @@
 88,Genomic Data Science,data analysis,data science
 89,Methods and Statistics in Social Sciences,governance ans society,social science
 90,Full-Stack Web Development with React,mobile and web development,computer science
-91,"Brand Management: Aligning Business, Brand and Behaviour",,
-92,Geographic Information Systems  (GIS),,
-93,Writing in the Sciences,,
-94,Stanford Introduction to Food and Health,,
-95,Machine Learning with TensorFlow on Google Cloud Platform,machine learning,data science
-96,The Business of Health Care,,
-97,"HTML, CSS, and Javascript for Web Developers",,
-98,Modern and Contemporary Art and Design,,
-99,The Singer Songwriter,,
-100,The DIY Musician,,
-101,Music Production,,
-102,The Business of Music Production,,
-103,Excel Skills for Business: Essentials,,
-104,"Everyday Excel, Part 1",,
-105,Achieving Personal and Professional Success,,
-106,Investment Management,,
-107,G Suite Administration,,
-108,Entrepreneurship: Growing Your Business,,
-109,Anatomy,,
-110,Functional Programming in Scala,,
-111,Epidemiology in Public Health Practice,,
-112,Big Data,,
-113,Viral Marketing and How to Craft Contagious Content,,
-114,Business Strategy,,
-115,Statistics with Python,,
-116,Google Cloud Platform Fundamentals: Core Infrastructure,,
-117,Learning How to Learn: Powerful mental tools to help you master tough subjects,,
-118,Excel/VBA for Creative Problem Solving,,
-119,MATLAB Programming for Engineers and Scientists,,
-120,Security Analyst Fundamentals,,
-121,AI for Medicine,,
-122,Strategic Leadership and Management,,
-123,Python Data Structures,,
-124,Learn Spanish: Basic Spanish Vocabulary,,
-125,(ISC)Â² Systems Security Certified Practitioner (SSCP),,
+91,"Brand Management: Aligning Business, Brand and Behaviour",entrepreneurship,business
+92,Geographic Information Systems  (GIS),data analysis,data science
+93,Writing in the Sciences,basic science,health
+94,Stanford Introduction to Food and Health,nutrition,health
+95,Machine Learning with TensorFlow on Google Cloud Platform,data analysis,data science
+96,The Business of Health Care,healthcare management,health
+97,"HTML, CSS, and Javascript for Web Developers",mobile and web development,computer science
+98,Modern and Contemporary Art and Design,arts and humanities,music and art
+99,The Singer Songwriter,arts and humanities,music and art
+100,The DIY Musician,arts and humanities,music and art
+101,Music Production,arts and humanities,music and art
+102,The Business of Music Production,arts and humanities,music and art
+103,Excel Skills for Business: Essentials,business essential,business
+104,"Everyday Excel, Part 1",design and product,computer science
+105,Achieving Personal and Professional Success,personal development,personal development
+106,Investment Management,finance,business
+107,G Suite Administration,computer security and networks,computer science
+108,Entrepreneurship: Growing Your Business,business strategy,business
+109,Anatomy,basic science,health
+110,Functional Programming in Scala,software development,computer science
+111,Epidemiology in Public Health Practice,public health,health
+112,Big Data,data analysis,data science
+113,Viral Marketing and How to Craft Contagious Content,marketing,business
+114,Business Strategy,business strategy,business
+115,Statistics with Python,probability and statistics,data science
+116,Google Cloud Platform Fundamentals: Core Infrastructure,cloud computing,information technology
+117,Learning How to Learn: Powerful mental tools to help you master tough subjects,personal development,personal development
+118,Excel/VBA for Creative Problem Solving,design and product,computer science
+119,MATLAB Programming for Engineers and Scientists,software development,computer science
+120,Security Analyst Fundamentals,security,information technology
+121,AI for Medicine,machine learning,data science
+122,Strategic Leadership and Management,leadership-and-management,business
+123,Python Data Structures,software development,computer science
+124,Learn Spanish: Basic Spanish Vocabulary,other language,language learning
+125,(ISC)Â² Systems Security Certified Practitioner (SSCP),security,information technology
 126,Advanced Machine Learning,machine learning,data science
-127,Private Equity and Venture Capital,,
-128,Photography Basics and Beyond: From Smartphone to DSLR,,
-129,Operating Systems and You: Becoming a Power User,,
+127,Private Equity and Venture Capital,finance,business
+128,Photography Basics and Beyond: From Smartphone to DSLR,arts and humanities,music and art
+129,Operating Systems and You: Becoming a Power User,support and operation,information technology
 130,"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",machine learning,data science
-131,Web Applications for Everybody,,
-132,Digital Advertising Strategy,,
-133,SAS Programmer,,
-134,Software Design and Architecture,,
-135,First Step Korean,,
-136,Self-Driving Cars,,
-137,Tools for Data Science,,
-138,Six Sigma Yellow Belt,,
+131,Web Applications for Everybody,mobile and web development,computer science
+132,Digital Advertising Strategy,marketing,business
+133,SAS Programmer,data analysis,data science
+134,Software Design and Architecture,software development,computer science
+135,First Step Korean,other language,language learning
+136,Self-Driving Cars,software development,computer science
+137,Tools for Data Science,data analysis,data science
+138,Six Sigma Yellow Belt,leadership-and-management,business
 139,"Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",machine learning,data science
-140,Good with Words: Writing and Editing,,
-141,Executive Data Science,,
+140,Good with Words: Writing and Editing,personal development,personal development
+141,Executive Data Science,data analysis,data science
 142,ÐœÐ°ÑˆÐ¸Ð½Ð½Ð¾Ðµ Ð¾Ð±ÑƒÑ‡ÐµÐ½Ð¸Ðµ Ð¸ Ð°Ð½Ð°Ð»Ð¸Ð· Ð´Ð°Ð½Ð½Ñ‹Ñ…,,
 143,Ð˜ÑÐºÑƒÑÑÑ‚Ð²Ð¾ Ñ€Ð°Ð·Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ¸ Ð½Ð° ÑÐ¾Ð²Ñ€ÐµÐ¼ÐµÐ½Ð½Ð¾Ð¼ C++,,
-144,Engineering Project Management,,
-145,Design and Interpretation of Clinical Trials,,
-146,Intellectual Property Law,,
-147,Advanced Data Science with IBM,,
-148,Diversity and inclusion in the workplace,,
-149,Game Design: Art and Concepts,,
-150,Introduction to User Experience Design,,
-151,Social Psychology,,
+144,Engineering Project Management,leadership-and-management,business
+145,regulatory Compliance,research,health
+146,Intellectual Property Law,business strategy,business
+147,Advanced Data Science with IBM,machine learning,data science
+148,Diversity and inclusion in the workplace,education ,social science
+149,Game Design: Art and Concepts,arts and humanities,music and art
+150,Introduction to User Experience Design,design and product,computer science
+151,Social Psychology,psychology,health
 152,Investment Management with Python and Machine Learning,machine learning,data science
-153,Management of Fashion and Luxury Companies,,
-154,"Influencing: Storytelling, Change Management and Governance",,
-155,Initiating and Planning Projects,,
-156,Become an EMT,,
-157,Visual Elements of User Interface Design,,
-158,Biostatistics in Public Health,,
-159,Agile with Atlassian Jira,,
-160,Introduction to Programming in C,,
-161,Electronic Music Production,,
-162,The Art of Sales: Mastering the Selling Process,,
-163,Blockchain,,
-164,Interaction Design,,
-165,Game Design and Development,,
-166,Introduction to Marketing,,
-167,Django for Everybody,,
-168,Marketing Analytics,,
-169,"Effective Communication: Writing, Design, and Presentation",,
-170,Natural Language Processing with Classification and Vector Spaces,,
-171,Python for Data Science and AI,,
-172,Bioinformatics,,
-173,How to Play Guitar,,
+153,Management of Fashion and Luxury Companies,leadership-and-management,business
+154,"Influencing: Storytelling, Change Management and Governance",leadership-and-management,business
+155,Initiating and Planning Projects,leadership-and-management,business
+156,Become an EMT,patient care,health
+157,Visual Elements of User Interface Design,arts and humanities,music and art
+158,Biostatistics in Public Health,public health,health
+159,Agile with Atlassian Jira,software development,computer science
+160,Introduction to Programming in C,algorithms,computer science
+161,Electronic Music Production,arts and humanities,music and art
+162,The Art of Sales: Mastering the Selling Process,arts and humanities,music and art
+163,Blockchain,software development,computer science
+164,Interaction Design,design and product,computer science
+165,Game Design and Development,design and product,computer science
+166,Introduction to Marketing,marketing,business
+167,Django for Everybody,mobile and web development,computer science
+168,Marketing Analytics,marketing,business
+169,"Effective Communication: Writing, Design, and Presentation",personal development,personal development
+170,Natural Language Processing with Classification and Vector Spaces,machine learning,data science
+171,Python for Data Science and AI,data analysis,data science
+172,Bioinformatics,health informatics,health
+173,How to Play Guitar,arts and humanities,music and art
 174,Machine Learning for Trading,machine learning,data science
 175,Data Science: Statistics and Machine Learning,machine learning,data science
-176,Organizational Leadership,,
-177,Data Warehousing for Business Intelligence,,
-178,Investment and Portfolio Management,,
+176,Organizational Leadership,leadership-and-management,business
+177,Data Warehousing for Business Intelligence,data analysis,data science
+178,Investment and Portfolio Management,finance,business
 179,Mathematics for Machine Learning: Linear Algebra,math-and-logic,math-and-logic
-180,Marketing Mix Implementation,,
-181,Learn English: Intermediate Grammar,,
-182,Futures Thinking,,
-183,Six Sigma Green Belt,,
-184,Blockchain Revolution,,
-185,Russian for beginners Ð1. Ð ÑƒÑÑÐºÐ¸Ð¹ ÑÐ·Ñ‹Ðº: A1,,
-186,Customer Analytics,,
-187,Introduction to Data Science in Python,,
+180,Marketing Mix Implementation,marketing,business
+181,Learn English: Intermediate Grammar,learning english,language learning
+182,Futures Thinking,business essential,business
+183,Six Sigma Green Belt,business essential,business
+184,Blockchain Revolution,software development,computer science
+185,Russian for beginners Ð1. Ð ÑƒÑÑÐºÐ¸Ð¹ ÑÐ·Ñ‹Ðº: A1,other language,language learning
+186,Customer Analytics,data analysis,data science
+187,Introduction to Data Science in Python,data analysis,data science
 188,Game Theory,math-and-logic,math-and-logic
-189,Statistical Analysis with R for Public Health,,
-190,Advanced Business Analytics,,
+189,Statistical Analysis with R for Public Health,public health,health
+190,Advanced Business Analytics,business essential,business
 191,Financial Management,finance,business
-192,Coding for Everyone: C and C++,,
-193,From Data to Insights with Google Cloud Platform,,
-194,English for Career Development,,
-195,Global Diplomacy â€“ Diplomacy in the Modern World,,
-196,Dynamic Public Speaking,,
-197,System Administration and IT Infrastructure Services,,
-198,Object Oriented Java Programming: Data Structures and Beyond,,
-199,Introduction to Psychology,,
-200,Medical Neuroscience,,
-201,Music Business,,
-202,An Introduction to Programming the Internet of Things (IOT),,
-203,Child Nutrition and Cooking,,
+192,Coding for Everyone: C and C++,software development,computer science
+193,From Data to Insights with Google Cloud Platform,data management,information technology
+194,English for Career Development,learning english,language learning
+195,Global Diplomacy â€“ Diplomacy in the Modern World,business essential,business
+196,Dynamic Public Speaking,personal development,personal development
+197,System Administration and IT Infrastructure Services,support and operation,information technology
+198,Object Oriented Java Programming: Data Structures and Beyond,software development,computer science
+199,Introduction to Psychology,psychology,health
+200,Medical Neuroscience,research,health
+201,Music Business,arts and humanities,music and art
+202,An Introduction to Programming the Internet of Things (IOT),electrical engineering,physical science and engineeering
+203,Child Nutrition and Cooking,nutrition,health
 204,SQL for Data Science,math-and-logic,math-and-logic
 205,Ð¤Ð¸Ð½Ð°Ð½ÑÐ¾Ð²Ñ‹Ðµ Ð¸Ð½ÑÑ‚Ñ€ÑƒÐ¼ÐµÐ½Ñ‚Ñ‹ Ð´Ð»Ñ Ñ‡Ð°ÑÑ‚Ð½Ð¾Ð³Ð¾ Ð¸Ð½Ð²ÐµÑÑ‚Ð¾Ñ€Ð°,,
-206,Understanding the Brain: The Neurobiology of Everyday Life,,
-207,Integrative Health and Medicine,,
-208,TensorFlow: Data and Deployment,,
-209,Modern Big Data Analysis with SQL,,
-210,Introduction to the Biology of Cancer,,
-211,Organizational Analysis,,
-212,Strategic Management and Innovation,,
-213,Programming with Google Go,,
+206,Understanding the Brain: The Neurobiology of Everyday Life,basic science,health
+207,Integrative Health and Medicine,patient care,health
+208,TensorFlow: Data and Deployment,machine learning,data science
+209,Modern Big Data Analysis with SQL,data analysis,data science
+210,Introduction to the Biology of Cancer,basic science,health
+211,Organizational Analysis,leadership-and-management,business
+212,Strategic Management and Innovation,business strategy,business
+213,Programming with Google Go,software development,computer science
 214,Data Science Math Skills,math-and-logic,math-and-logic
-215,International Women's Health and Human Rights,,
-216,Science of Exercise,,
-217,Fundamentals of Accounting,,
+215,International Women's Health and Human Rights,basic science,health
+216,Science of Exercise,basic science,health
+217,Fundamentals of Accounting,finance,business
 218,Machine Learning,machine learning,data science
-219,Robotics,,
-220,Algorithms for Battery Management Systems,,
-221,Convolutional Neural Networks in TensorFlow,,
-222,Using Python to Access Web Data,,
-223,Introduction to Cybersecurity Tools & Cyber Attacks,,
-224,Probabilistic Graphical Models,,
-225,Claves de la DirecciÃ³n de Empresas,,
-226,"TESOL Certificate, Part 2: Teach English Now!",,
+219,Robotics,machine learning,data science
+220,Algorithms for Battery Management Systems,electrical engineering,physical science and engineeering
+221,Convolutional Neural Networks in TensorFlow,machine learning,data science
+222,Using Python to Access Web Data,mobile and web development,computer science
+223,Introduction to Cybersecurity Tools & Cyber Attacks,security,information technology
+224,Probabilistic Graphical Models,machine learning,data science
+225,Claves de la DirecciÃ³n de Empresas,leadership-and-management,business
+226,"TESOL Certificate, Part 2: Teach English Now!",learning english,language learning
 227,The Data Scientistâ€™s Toolbox,math-and-logic,math-and-logic
-228,Coaching Skills for Managers,,
-229,Introductory Human Physiology,,
-230,Global Procurement and Sourcing,,
-231,Forensic Accounting and Fraud Examination,,
-232,Convolutional Neural Networks,,
-233,Developing Your Musicianship,,
-234,Positive Psychology: Martin E. P. Seligmanâ€™s Visionary Science,,
-235,Power Electronics,,
+228,Coaching Skills for Managers,leadership-and-management,business
+229,Introductory Human Physiology,basic science,health
+230,Global Procurement and Sourcing,leadership-and-management,business
+231,Forensic Accounting and Fraud Examination,finance,business
+232,Convolutional Neural Networks,machine learning,data science
+233,Developing Your Musicianship,arts and humanities,music and art
+234,Positive Psychology: Martin E. P. Seligmanâ€™s Visionary Science,psychology,health
+235,Power Electronics,electrical engineering,physical science and engineeering
 236,Blockchain Revolution in Financial Services,finance,business
-237,The Strategy of Content Marketing,,
+237,The Strategy of Content Marketing,marketing,business
 238,CAD and Digital Manufacturing,,
 239,Managing the Company of the Future,,
 240,Learn Chinese: HSK Test Preparation,,
@@ -506,14 +506,14 @@
 504,Getting Started with AWS Machine Learning,machine learning,data science
 505,Fundamentals of Engineering Exam Review,,
 506,Mind Control: Managing Your Mental Health During COVID-19,,
-507,Search Engine Optimization Fundamentals,,
-508,Data-driven Decision Making,,
-509,Model Thinking,,
+507,Search Engine Optimization Fundamentals,marketing,business
+508,Data-driven Decision Making,business strategy,business
+509,Model Thinking,economics,social science
 510,Mathematics for Machine Learning: Multivariate Calculus,math-and-logic,math-and-logic
-511,Data Visualization with Python,,
-512,Epidemiology for Public Health,,
-513,Understanding Einstein: The Special Theory of Relativity,,
-514,Drug Discovery,,
+511,Data Visualization with Python,data analysis,data science
+512,Epidemiology for Public Health,public health,health
+513,Understanding Einstein: The Special Theory of Relativity,physics and astronomy,physical science and engineeering
+514,Drug Discovery,healthcare management,health
 515,Business Model Innovation,,
 516,Introduction to Spreadsheets and Models,,
 517,Gender and Sexuality: Diversity and Inclusion in the Workplace,,
